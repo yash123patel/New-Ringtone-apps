@@ -1,0 +1,30 @@
+{
+  "message": "success",
+  "ringtone_api": "https://quiet-douhua-ef32a3.netlify.app/ganesh_ringtone.json",
+  "apps": [
+    {
+      "id": "1",
+      "name": "Relaxing Sleep Music Offline",
+      "img": "https://play-lh.googleusercontent.com/-a2aM76mXO-0RAes6cETs39sucZXlAKmdHmh5Kczf1zj91MpkcH2OLTSZqdpxh1WEA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps"
+    },
+    {
+      "id": "2",
+      "name": "Relaxing Sleep Music Offline",
+      "img": "https://play-lh.googleusercontent.com/-a2aM76mXO-0RAes6cETs39sucZXlAKmdHmh5Kczf1zj91MpkcH2OLTSZqdpxh1WEA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps"
+    },
+    {
+      "id": "3",
+      "name": "Relaxing Sleep Music Offline",
+      "img": "https://play-lh.googleusercontent.com/-a2aM76mXO-0RAes6cETs39sucZXlAKmdHmh5Kczf1zj91MpkcH2OLTSZqdpxh1WEA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps"
+    },
+    {
+      "id": "4",
+      "name": "Relaxing Sleep Music Offline",
+      "img": "https://play-lh.googleusercontent.com/-a2aM76mXO-0RAes6cETs39sucZXlAKmdHmh5Kczf1zj91MpkcH2OLTSZqdpxh1WEA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.meditationmusicapp.sleepanandapps"
+    }
+  ]
+}
